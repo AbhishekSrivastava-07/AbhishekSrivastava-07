@@ -1,3 +1,3 @@
-- 🔭 I’m currently working as Intern in Tech Mahindra
-- 🌱 I’m currently learning Tesnorflow practical implementation
-- 📫 How to reach me: abhisrivastava07aks@gmail.com
+- 🔭 Working as Intern in Tech Mahindra
+- 🌱 Learning learnings
+- 📫 Reach me: abhisrivastava07aks@gmail.com

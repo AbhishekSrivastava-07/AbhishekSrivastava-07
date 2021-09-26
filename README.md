@@ -10,3 +10,6 @@
 ### where you can find me: mamil, linkedin, kaggle, stackoverflow
 ### my skills
 - consider giving a star and show some love.
+ ### interested in learnng at some point : 
+ ### one motivational line at last
+ ### if you like my works do give it a channce to reach out and have coffee with some productive discussion.

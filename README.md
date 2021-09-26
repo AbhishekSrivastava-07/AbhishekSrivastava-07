@@ -7,3 +7,6 @@
 ### social media with icon: 
 ### currently working on technologies with icon: 
 ### currently leraning/improving with icon
+### where you can find me: mamil, linkedin, kaggle, stackoverflow
+### my skills
+- consider giving a star and show some love.

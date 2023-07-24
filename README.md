@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekSrivastava-07](https://github.com/AbhishekSrivastava-07)
 
-- 💬 Ask me about **Data science, ML, DL stuffs.**
+- 💬 Ask me about **Data Engineering, Data science, ML, DL stuffs.**
 
 - 📫 How to reach me **abhisrivastava07aks@gmail.com**
 
